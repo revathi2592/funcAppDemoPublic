@@ -1,2 +1,2 @@
 def printMethod():  
-    print(" from git inside testfolderstructure")
+    print(" from git (version 1) inside testfolderstructure")
